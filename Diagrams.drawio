@@ -3193,7 +3193,7 @@
           <mxGeometry y="260" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LdMSCIz8D7Wrse4taxNw-15" value="Leads" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;swimlaneLine=1;strokeColor=default;glass=0;fontColor=default;fontSize=15;" vertex="1" parent="LdMSCIz8D7Wrse4taxNw-1">
-          <mxGeometry x="-6895" y="1042" width="160" height="444" as="geometry">
+          <mxGeometry x="-6901" y="1011" width="160" height="444" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
