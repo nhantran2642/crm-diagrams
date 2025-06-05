@@ -5619,7 +5619,7 @@
           <mxGeometry y="442" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LdMSCIz8D7Wrse4taxNw-81" value="Deals" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;swimlaneLine=1;strokeColor=default;glass=0;fontColor=default;fontSize=17;fontFamily=Verdana;" parent="LdMSCIz8D7Wrse4taxNw-1" vertex="1">
-          <mxGeometry x="-6337" y="1131" width="160" height="242" as="geometry">
+          <mxGeometry x="-6340" y="1166" width="160" height="242" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -5983,7 +5983,7 @@
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LdMSCIz8D7Wrse4taxNw-241" value="LostReasons" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;swimlaneLine=1;strokeColor=default;glass=0;fontColor=default;fontSize=17;fontFamily=Verdana;" parent="LdMSCIz8D7Wrse4taxNw-1" vertex="1">
-          <mxGeometry x="-6337" y="1549" width="160" height="80" as="geometry">
+          <mxGeometry x="-6336" y="1568" width="160" height="80" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
